@@ -2,7 +2,7 @@
 
 Final year student at Heinrich-Emanuel-Merck-Schule (Information Technology)
 
-Strong skills in C++, Shell scripting, and Linux (Arch, Hyprland)
+Strong skills in C++, Shell scripting, and Linux 
 
 Passionate about troubleshooting, workflow optimization, and technical documentation
 
