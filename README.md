@@ -34,12 +34,12 @@
 
 ---
 
-## 📈 GitHub Stats
+## 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naicen-dev&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naicen-dev&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Naicen-dev&theme=tokyonight&margin-w=10&margin-h=10" />
 </p>
+
 
 ---
 
