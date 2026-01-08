@@ -2,27 +2,27 @@
 <!--                GITHUB PROFILE README TEMPLATE             -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hi, ich bin Hamid 👋</h1>
+<h1 align="center">Hi, I'm Hamid 👋</h1>
 
 <p align="center">
-  Entwickler • Linux-Enthusiast • Cyber Security Aspirant  
+  Developer • Linux Enthusiast • Cyber Security Aspirant  
 </p>
 
 ---
 
-## 🧠 Über mich
+## 🧠 About Me
 
-- 🎯 Fokus: C++ & C# — langfristiges Ziel Cyber Security  
-- 🐧 Arbeite auf einem hochgradig optimierten Arch Linux Setup  
-- ⚙️ Liebe reproduzierbare, modulare und saubere Entwicklungsumgebungen  
-- 🛠️ Erfahrung mit Neovim (LazyVim), JetBrains Rider, .NET, Game Dev Tooling  
-- 🔍 Detailorientiert, geduldig, und immer auf der Suche nach der perfekten Lösung  
+- 🎯 Focus: C++ & C# — long-term goal: Cyber Security  
+- 🐧 Working on a highly customized and optimized Arch Linux environment  
+- ⚙️ Passionate about reproducible, modular, and clean development setups  
+- 🛠️ Experienced with Neovim (LazyVim), JetBrains Rider, .NET, and game development tooling  
+- 🔍 Detail-oriented, patient, and always striving for the perfect solution  
 
 ---
 
 ## 🔧 Tech Stack
 
-### **Sprachen**
+### **Languages**
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,cs,bash" />
 </p>
@@ -37,8 +37,8 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Naicen-dev&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naicen-dev&layout=compact&theme=tokyonight" />
 </p>
 
 ---
