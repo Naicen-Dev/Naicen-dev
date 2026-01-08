@@ -34,14 +34,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naicen-dev&theme=tokyonight" />
-</p>
-
-
-
----
-
 
 
 <p align="center">✨ Always learning. Always improving. ✨</p>
