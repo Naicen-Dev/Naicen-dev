@@ -34,11 +34,10 @@
 
 ---
 
-## 🏆 GitHub Profile Trophy
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naicen-dev&theme=tokyonight&margin-w=10&margin-h=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Naicen-dev&theme=tokyonight" />
 </p>
+
 
 
 ---
