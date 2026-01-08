@@ -12,7 +12,7 @@
 
 ## 🧠 Über mich
 
-- 🎯 Fokus: C++, C#, Java — mit langfristigem Ziel Cyber Security  
+- 🎯 Fokus: C++ & C# — langfristiges Ziel Cyber Security  
 - 🐧 Arbeite auf einem hochgradig optimierten Arch Linux Setup  
 - ⚙️ Liebe reproduzierbare, modulare und saubere Entwicklungsumgebungen  
 - 🛠️ Erfahrung mit Neovim (LazyVim), JetBrains Rider, .NET, Game Dev Tooling  
@@ -24,7 +24,7 @@
 
 ### **Sprachen**
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,bash,lua" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,bash" />
 </p>
 
 ### **Tools & Workflow**
@@ -43,25 +43,6 @@
 
 ---
 
-## 🧩 Projekte, an denen ich arbeite
 
-- 🔥 **Reproduzierbares LazyVim Setup**  
-  Modular, dokumentiert, perfekt für C# & C++ Development  
-
-- 🛡️ **Cyber Security Learning Journey**  
-  Fokus auf Exploit Development, Malware Analysis & Secure Coding  
-
-- 🎮 **Game Dev Experimente**  
-  C# + .NET + Rider + Engine‑Tooling  
-
----
-
-## 📬 Kontakt
-
-- 💼 LinkedIn: *optional*  
-- 🌐 Portfolio: *optional*  
-- 📧 Email: *optional*  
-
----
 
 <p align="center">✨ Always learning. Always improving. ✨</p>
