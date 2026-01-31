@@ -6,14 +6,13 @@
 
 ## 🧠 About Me
 
-I am a developer driven by a passion for low-level performance and system security. Currently, I'm honing my skills in C++ and C# while building a rock-solid foundation for a career in **Cyber Security**. 
+I am a developer driven by a passion for low-level performance and system security. Currently, I'm honing my skills in **C++** and **C#** while building a rock-solid foundation for a career in **Cyber Security**. 
 
 I believe in the power of **reproducible, modular, and clean environments**—which is why I spend my time optimizing my Arch Linux setup and perfecting my Neovim workflow.
 
-* 🎯 **Current Focus:** Advanced C++ and Security Research.
+* 🎯 **Current Focus:** Advanced C++, Malware Analysis & Security Research.
 * 🐧 **OS:** Proud Arch Linux user (btw).
 * 🛠️ **Editor:** Neovim (LazyVim) & JetBrains Rider.
-* 🎮 **Interest:** Game development tooling and engine internals.
 * 🔍 **Mindset:** Patient, detail-oriented, and always hunting for the "perfect" solution.
 
 ---
@@ -39,7 +38,10 @@ I believe in the power of **reproducible, modular, and clean environments**—wh
 ---
 
 ## 🤝 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/hamidullah-taymuree-419857398)
-[<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=hyper&logoColor=white" />](DEIN_LINK_HIER)
+<p align="left">
+<a href="https://www.linkedin.com/in/hamidullah-taymuree-419857398">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+</p>
 
 > ✨ *Always learning. Always improving.*
