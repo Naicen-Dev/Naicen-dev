@@ -38,13 +38,6 @@ I believe in the power of **reproducible, modular, and clean environments**—wh
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Naicen-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="Hamid's Stats" />
-</p>
-
----
-
 ## 🤝 Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](DEIN_LINK_HIER)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=hyper&logoColor=white" />](DEIN_LINK_HIER)
