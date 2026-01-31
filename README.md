@@ -8,7 +8,6 @@
 
 I am a developer driven by a passion for low-level performance and system security. Currently, I'm honing my skills in **C++** and **C#** while building a rock-solid foundation for a career in **Cyber Security**. 
 
-I believe in the power of **reproducible, modular, and clean environments**—which is why I spend my time optimizing my Arch Linux setup and perfecting my Neovim workflow.
 
 * 🎯 **Current Focus:** Advanced C++, Malware Analysis & Security Research.
 * 🐧 **OS:** Proud Arch Linux user (btw).
