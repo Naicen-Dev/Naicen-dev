@@ -39,7 +39,7 @@ I believe in the power of **reproducible, modular, and clean environments**—wh
 ---
 
 ## 🤝 Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](DEIN_LINK_HIER)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/hamidullah-taymuree-419857398)
 [<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=hyper&logoColor=white" />](DEIN_LINK_HIER)
 
 > ✨ *Always learning. Always improving.*
