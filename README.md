@@ -78,8 +78,7 @@ As a **Cyber Security enthusiast**, I focus on:
 
 ## 🤝 Connect
 
-<img width="1082" height="108" alt="grafik" src="https://github.com/user-attachments/assets/def34899-4742-41ad-acf4-0c41931ebb71" />
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidullah-taymuree-419857398)
 ---
 
 ## ⚡ Fun Fact
