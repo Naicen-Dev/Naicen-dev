@@ -68,7 +68,6 @@ As a **Cyber Security enthusiast**, I focus on:
 
 ## 📊 GitHub Stats
 
-> *(Replace username below with your actual GitHub username)*
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Naicen-Dev\&show_icons=true\&theme=tokyonight\&count_private=true)
 
