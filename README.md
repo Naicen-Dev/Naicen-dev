@@ -13,9 +13,9 @@ struct Developer {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages
+### Languages
 
 | Language       | Focus Area            | Level      |
 | -------------- | --------------------- | ---------- |
@@ -25,7 +25,7 @@ struct Developer {
 
 ---
 
-### 🔧 Tools & Environment
+###  Tools & Environment
 
 * 🐧 Arch Linux (Custom Tiling WM)
 * 🧠 Neovim (LazyVim setup)
