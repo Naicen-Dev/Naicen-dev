@@ -1,4 +1,4 @@
-# 🛡️ Hamid | Cyber Security & Systems Engineering
+#  Hamid | Cyber Security & Systems Engineering
 
 ```cpp
 #include <iostream>
@@ -13,37 +13,15 @@ struct Developer {
 
 ---
 
-## 🧠 About Me
-
-I operate where **software meets hardware** — diving deep into systems, breaking them apart, and understanding them at their core.
-
-As a **Cyber Security enthusiast**, I focus on:
-
-* Reverse Engineering
-* Malware Analysis
-* Low-level Systems Programming
-
-💡 *"If you can't break it, you don't understand it."*
-
----
-
-## 🚀 Current Focus
-
-* 🔍 x86-64 Assembly & Reverse Engineering
-* 🧩 Binary Exploitation Basics
-* 🧠 Understanding OS Internals (Linux & Windows)
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
 
 | Language       | Focus Area            | Level      |
 | -------------- | --------------------- | ---------- |
-| **C++**        | Systems / Exploit Dev | █████████░ |
-| **C#**         | Tools / .NET Research | ███████░░░ |
-| **Bash/Shell** | Automation            | ████████░░ |
+| **C++**        | Systems / Exploit Dev | ███████░░░ |
+| **C#**         | Tools / .NET Research | ███░░░░░░░ |
+| **Bash/Shell** | Automation            | █████░░░░░ |
 
 ---
 
@@ -58,33 +36,11 @@ As a **Cyber Security enthusiast**, I focus on:
 
 ---
 
-## 🧪 Projects (Coming Soon)
-
-* 🦠 Malware Analysis Notes & Writeups
-* 🧩 Reverse Engineering Challenges
-* ⚙️ Custom Security Tools (C++ / C#)
-
----
-
-## 📊 GitHub Stats
-
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Naicen-Dev\&show_icons=true\&theme=tokyonight\&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naicen-Dev\&layout=compact\&theme=tokyonight)
-
----
-
-## 🤝 Connect
+##  Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamidullah-taymuree-419857398)
 ---
 
-## ⚡ Fun Fact
-
-I use Arch, debug at 3AM, and trust assembly more than high-level abstractions.
-
----
 
 ```bash
 > status
