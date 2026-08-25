@@ -5,8 +5,7 @@
 
 struct Developer {
     const char* name = "Hamid";
-    const char* focus = "Cyber Security & Systems Engineering";
-    const char* specialization = "Malware Analysis & Low-Level Development";
+    const char* focus = "Cyber Security & Low-Level Development";
     bool uses_arch = true; // btw
 };
 ```
